@@ -1,0 +1,181 @@
+{
+    "Url": "http://pull-flv-l29.douyincdn.com/stage/stream_02921042122264954838_sd.flv",
+    "Err": null,
+    "ProbeData": {
+        "streams": [
+            {
+                "avg_frame_rate": 15,
+                "bit_rate": "1600000",
+                "bits_per_raw_sample": "8",
+                "channel_layout": "",
+                "channels": 0,
+                "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+                "codec_name": "h264",
+                "codec_tag": "0x0000",
+                "codec_tag_string": "[0][0][0][0]",
+                "codec_time_base": "1/30",
+                "codec_type": "video",
+                "coded_height": 960,
+                "coded_width": 544,
+                "color_primaries": "",
+                "color_range": "",
+                "color_space": "",
+                "color_transfer": "",
+                "display_aspect_ratio": {
+                    "Height": 30,
+                    "Width": 17
+                },
+                "duration_ts": 0,
+                "has_b_frames": 1,
+                "height": 960,
+                "id": "",
+                "index": 0,
+                "is_avc": "true",
+                "level": 31,
+                "nal_length_size": "4",
+                "nb_frames": "0",
+                "pix_fmt": "yuv420p",
+                "profile": "Main",
+                "refs": 1,
+                "r_frame_rate": 15,
+                "sample_aspect_ratio": {
+                    "Height": 135,
+                    "Width": 136
+                },
+                "sample_fmt": "",
+                "sample_rate": "0",
+                "start_pts": 467,
+                "start_time": {
+                    "Duration": 467000000
+                },
+                "tags": {
+                    "handler_name": "",
+                    "language": ""
+                },
+                "time_base": 0.001,
+                "width": 540
+            }
+        ],
+        "format": {
+            "bit_rate": "0",
+            "duration": {
+                "Duration": 0
+            },
+            "filename": "http://pull-flv-l29.douyincdn.com/stage/stream_02921042122264954838_sd.flv",
+            "format_name": "flv",
+            "format_long_name": "FLV (Flash Video)",
+            "nb_programs": 0,
+            "nb_streams": 2,
+            "probe_score": 100,
+            "size": "0",
+            "start_time": {
+                "Duration": 369000000
+            }
+        },
+        "frames": null,
+        "packets": null
+    },
+    "Video": {
+        "Codec": "h264",
+        "Profile": "Main",
+        "Size": "",
+        "BitRate": 1600000,
+        "Width": 540,
+        "Height": 960,
+        "Fps": 15,
+        "Duration": 0
+    },
+}
+
+
+
+
+
+
+
+
+
+
+{
+    "Url": "http://pull-flv-l27.douyincdn.com/stage/stream_02721042122291145307_sd.flv",
+    "Err": null,
+    "ProbeData": {
+        "streams": [
+            {
+                "avg_frame_rate": 15,
+                "bit_rate": "1599488",
+                "bits_per_raw_sample": "8",
+                "channel_layout": "",
+                "channels": 0,
+                "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+                "codec_name": "h264",
+                "codec_tag": "0x0000",
+                "codec_tag_string": "[0][0][0][0]",
+                "codec_time_base": "1/30",
+                "codec_type": "video",
+                "coded_height": 960,
+                "coded_width": 544,
+                "color_primaries": "",
+                "color_range": "",
+                "color_space": "",
+                "color_transfer": "",
+
+                "duration_ts": 0,
+                "has_b_frames": 2,
+                "height": 952,
+                "id": "",
+                "index": 0,
+                "is_avc": "true",
+                "level": 31,
+                "nal_length_size": "4",
+                "nb_frames": "0",
+                "pix_fmt": "yuv420p",
+                "profile": "High",
+                "refs": 1,
+                "r_frame_rate": 15,
+       
+                "tags": {
+                    "handler_name": "",
+                    "language": ""
+                },
+                "time_base": 0.001,
+                "width": 540
+            },
+
+        ],
+        "format": {
+            "bit_rate": "1646592",
+            "duration": {
+                "Duration": 0
+            },
+            "filename": "http://pull-flv-l27.douyincdn.com/stage/stream_02721042122291145307_sd.flv",
+            "format_name": "flv",
+            "format_long_name": "FLV (Flash Video)",
+            "nb_programs": 0,
+            "nb_streams": 2,
+            "probe_score": 100,
+            "size": "0",
+            "start_time": {
+                "Duration": 3627000000
+            },
+            "tags": {
+                "major_brand": "isom",
+                "minor_version": "512",
+                "compatible_brands": "isomiso2avc1mp41",
+                "creation_time": ""
+            }
+        },
+        "frames": null,
+        "packets": null
+    },
+    "Video": {
+        "Codec": "h264",
+        "Profile": "High",
+        "Size": "",
+        "BitRate": 1599488,
+        "Width": 540,
+        "Height": 952,
+        "Fps": 15,
+        "Duration": 0
+    },
+}
